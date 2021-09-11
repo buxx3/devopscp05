@@ -1,0 +1,13 @@
+C:\Users\Larissa\Downloads\2TDSS-main (1)\2TDSS-main\Fiap.Aula01\Fiap.Aula01.Exercicio\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exercicio.exe
+C:\Users\Larissa\Downloads\2TDSS-main (1)\2TDSS-main\Fiap.Aula01\Fiap.Aula01.Exercicio\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exercicio.deps.json
+C:\Users\Larissa\Downloads\2TDSS-main (1)\2TDSS-main\Fiap.Aula01\Fiap.Aula01.Exercicio\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exercicio.runtimeconfig.json
+C:\Users\Larissa\Downloads\2TDSS-main (1)\2TDSS-main\Fiap.Aula01\Fiap.Aula01.Exercicio\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exercicio.runtimeconfig.dev.json
+C:\Users\Larissa\Downloads\2TDSS-main (1)\2TDSS-main\Fiap.Aula01\Fiap.Aula01.Exercicio\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exercicio.dll
+C:\Users\Larissa\Downloads\2TDSS-main (1)\2TDSS-main\Fiap.Aula01\Fiap.Aula01.Exercicio\bin\Debug\netcoreapp3.1\Fiap.Aula01.Exercicio.pdb
+C:\Users\Larissa\Downloads\2TDSS-main (1)\2TDSS-main\Fiap.Aula01\Fiap.Aula01.Exercicio\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exercicio.csproj.AssemblyReference.cache
+C:\Users\Larissa\Downloads\2TDSS-main (1)\2TDSS-main\Fiap.Aula01\Fiap.Aula01.Exercicio\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exercicio.AssemblyInfoInputs.cache
+C:\Users\Larissa\Downloads\2TDSS-main (1)\2TDSS-main\Fiap.Aula01\Fiap.Aula01.Exercicio\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exercicio.AssemblyInfo.cs
+C:\Users\Larissa\Downloads\2TDSS-main (1)\2TDSS-main\Fiap.Aula01\Fiap.Aula01.Exercicio\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\Downloads\2TDSS-main (1)\2TDSS-main\Fiap.Aula01\Fiap.Aula01.Exercicio\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exercicio.dll
+C:\Users\Larissa\Downloads\2TDSS-main (1)\2TDSS-main\Fiap.Aula01\Fiap.Aula01.Exercicio\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exercicio.pdb
+C:\Users\Larissa\Downloads\2TDSS-main (1)\2TDSS-main\Fiap.Aula01\Fiap.Aula01.Exercicio\obj\Debug\netcoreapp3.1\Fiap.Aula01.Exercicio.genruntimeconfig.cache
